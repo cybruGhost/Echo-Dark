@@ -10,7 +10,7 @@ Echo-Dark is a **function-level HTML-based testing prototype** created to experi
 ---
 
 ## 🧪 Purpose of This Prototype
-[![Crowdin](https://img.shields.io/endpoint?url=https%3A%2F%2Fcrowdin-proxy-badge.vercel.app%2Fapi%2Fbadges%2Fcubic-music%2Ftranslated)](https://crowdin.com/project/cubic-music)
+[![Crowdin](https://badges.crowdin.net/cubic-music/localized.svg)](https://crowdin.com/project/cubic-music)
 
 This project exists solely to:
 
